@@ -46,7 +46,7 @@ A simple form to create new students with following data structure:
 ```sh
 ```
 
-# uppgift-api2-asa-jon
+# uppgift-api2
 #####
 1.Vad är skillnaden mellan backend och databas? Beskriv vad respektive ansvarar för.
 
